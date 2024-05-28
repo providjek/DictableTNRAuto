@@ -1,0 +1,7 @@
+dictable:
+  url: "https://dictable.org"
+
+timeConst:
+  timeout: 60
+  shortWait: 5
+  longWait: 30

@@ -1,0 +1,10 @@
+{
+  "pseudo":  "yasn21",
+  "fname": "Hilaire",
+  "lname": "Junior",
+  "genre": "Homme",
+  "language": "Français",
+  "level": "Lycée",
+  "country" : "Chad",
+  "msgSuccessProfCreat": "Nouveau profil ajouté avec succès"
+}

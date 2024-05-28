@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1f43d54c-8691-4e71-81b9-b4c68f2b33a0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/config/YAMLConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/config/YAMLConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/enums/EndpointEnums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/enums/EndpointEnums.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/managers/AssertManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/managers/AssertManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/managers/WebDrivenSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/managers/WebDrivenSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pagesObjects/DictationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pagesObjects/DictationPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pagesObjects/InitPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pagesObjects/InitPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pagesObjects/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pagesObjects/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pagesObjects/Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pagesObjects/Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pagesObjects/ProfilPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pagesObjects/ProfilPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pagesObjects/RegisterPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pagesObjects/RegisterPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pagesObjects/YopmailPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pagesObjects/YopmailPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pagesObjects/home/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pagesObjects/home/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/configuration.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/configuration.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runners/AuthRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runners/AuthRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/LoginStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/LoginStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/LogoutStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/LogoutStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/PageNavigationSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/PageNavigationSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/ProfilStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/ProfilStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/RegisterSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/RegisterSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/SearchDictationStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/SearchDictationStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/TakeDictationStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/TakeDictationStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/allure.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/allure.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/end2endTNR.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/end2endTNR.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/login.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/logout.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/logout.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/profiles.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/profiles.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/register.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/register.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/searchDictation.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/searchDictation.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/takeDictation.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/takeDictation.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/jdd/authJDD.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/jdd/authJDD.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/jdd/dictationJDD.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/jdd/dictationJDD.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/jdd/newProfilJDD.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/jdd/newProfilJDD.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2f3Rh28mfHLvt4xvhCOxnBvh7eh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/LENOVO/IdeaProjects/DicatableAutomation/src/test/resources/jdd&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\IdeaProjects\DicatableAutomation\src\test\resources\jdd" />
+      <recent name="C:\Users\LENOVO\IdeaProjects\DicatableAutomation\src\test\resources\features" />
+      <recent name="C:\Users\LENOVO\IdeaProjects\DicatableAutomation\src\main\resources" />
+      <recent name="C:\Users\LENOVO\IdeaProjects\ztrain-web-ui-framework-testing\src\test\resources\features" />
+      <recent name="C:\Users\LENOVO\IdeaProjects\ztrain-web-ui-framework-testing\src\main\java\utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\IdeaProjects\DicatableAutomation\src\test\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pagesObjects" />
+      <recent name="pagesObjects.home" />
+      <recent name="stepDefinitions" />
+      <recent name="utils" />
+      <recent name="pagesObjects.resetPassword" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.AuthRunner">
+    <configuration name="Feature: login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/login.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="ztrain-web-ui-framework-testing" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: login" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Account creation - Case study" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/register.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="ztrain-web-ui-framework-testing" />
+      <option name="NAME_FILTER" value="^Account creation \- Case study$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Account creation \- Case study$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Account creation - Case study" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Creating an account with an existing email address - not a passing case" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/register.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="ztrain-web-ui-framework-testing" />
+      <option name="NAME_FILTER" value="^Creating an account with an existing email address \- not a passing case$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Creating an account with an existing email address \- not a passing case$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Creating an account with an existing email address - not a passing case" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Login - passing" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/login.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="ztrain-web-ui-framework-testing" />
+      <option name="NAME_FILTER" value="^Login \- passing$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Login \- passing$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Login - passing" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthRunner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ztrain-web-ui-framework-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runners" />
+      <option name="MAIN_CLASS_NAME" value="runners.AuthRunner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.AuthRunner" />
+        <item itemvalue="Cucumber Java.Scenario: Creating an account with an existing email address - not a passing case" />
+        <item itemvalue="Cucumber Java.Scenario: Login - passing" />
+        <item itemvalue="Cucumber Java.Feature: login" />
+        <item itemvalue="Cucumber Java.Scenario: Account creation - Case study" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f43d54c-8691-4e71-81b9-b4c68f2b33a0" name="Changes" comment="" />
+      <created>1713027893253</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713027893253</updated>
+      <workItem from="1713027896151" duration="1670000" />
+      <workItem from="1713042566049" duration="3728000" />
+      <workItem from="1713168104451" duration="7608000" />
+      <workItem from="1713180380268" duration="12349000" />
+      <workItem from="1713278448728" duration="18481000" />
+      <workItem from="1713431326554" duration="10845000" />
+      <workItem from="1713448729271" duration="732000" />
+      <workItem from="1713449883398" duration="26474000" />
+      <workItem from="1713779688115" duration="1576000" />
+      <workItem from="1713785336397" duration="2755000" />
+      <workItem from="1715208413483" duration="23415000" />
+      <workItem from="1715252481441" duration="4893000" />
+      <workItem from="1715289705497" duration="2801000" />
+      <workItem from="1715294788341" duration="7077000" />
+      <workItem from="1715335632579" duration="2559000" />
+      <workItem from="1715557510846" duration="13422000" />
+      <workItem from="1715599517811" duration="16554000" />
+      <workItem from="1715677643332" duration="2114000" />
+      <workItem from="1715761342165" duration="1606000" />
+      <workItem from="1715857329699" duration="1859000" />
+      <workItem from="1716244151229" duration="14672000" />
+      <workItem from="1716557995569" duration="657000" />
+      <workItem from="1716887538803" duration="2397000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
